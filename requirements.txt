@@ -1,0 +1,15 @@
+numpy
+openslide-python
+torch
+torchvision
+torchaudio
+opencv-python
+h5py
+scipy
+scikit-image
+matplotlib
+timm
+lxml
+shapely
+tqdm
+wsinfer-zoo
